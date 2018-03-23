@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_string">Default</string>
+    <string name="month_day_year" formatted="false">%B %-e, %Y</string>
+    <string name="time_of_day" formatted="false">%-l:%M:%S %p</string>
+    <string name="date_and_time" formatted="false">%b %-e, %Y, %-l:%M:%S %p</string>
+    <string name="date_time">%1$s, %2$s</string>
+    <string name="common_name_prefixes">1LT, 1ST, 2LT, 2ND, 3RD, ADMIRAL, CAPT, CAPTAIN, COL, CPT, DR, GEN, GENERAL, LCDR, LT, LTC, LTG, LTJG, MAJ, MAJOR, MG, MR, MRS, MS, PASTOR, PROF, REP, REVEREND, REV, SEN, ST</string>
+    <string name="common_name_suffixes">B.A., BA, D.D.S., DDS, I, II, III, IV, IX, JR., M.A., M.D., MA, MD, MS, PH.D., PHD, SR., V, VI, VII, VIII, X</string>
+    <string name="common_last_name_prefixes">"D', DE, DEL, DI, LA, LE, MC, SAN, ST, TER, VAN, VON"</string>
+    <string name="common_name_conjunctions">&amp;, AND, OR</string>
+    <string name="system_error_vendorprint">Your vendor image does not match the system. Please flash the %s vendor image for your device</string>
+    <string name="global_action_screenrecord">ScreenRecord</string>
+    <string name="animation_fade">Fade</string>
+    <string name="animation_slide_right">Slide in Right</string>
+    <string name="animation_slide_left">Slide in Left</string>
+    <string name="animation_slide_right_no_fade">Slide in Right (No fade)</string>
+    <string name="animation_slide_left_no_fade">Slide in Left (No fade)</string>
+    <string name="animation_slide_up">Slide in Bottom</string>
+    <string name="animation_slide_down">Slide in Top</string>
+    <string name="animation_default">Default</string>
+    <string name="animation_translucent">Translucent</string>
+    <string name="animation_grow_shrink">Grow in (Top)</string>
+    <string name="animation_grow_shrink_center">Grow in (Center)</string>
+    <string name="animation_grow_shrink_bottom">Grow in (Bottom)</string>
+    <string name="animation_grow_shrink_left">Grow in (Left)</string>
+    <string name="animation_grow_shrink_right">Grow in (Right)</string>
+    <string name="action_null">Blank</string>
+    <string name="global_action_torch">Flashlight</string>
+    <string name="reboot_systemui">Restart SystemUI</string>
+    <string name="global_action_onthego">On-The-Go Mode</string>
+    <string name="adb_not_connected_notification_title">ADB Inactive</string>
+    <string name="adb_active_custom_tile_not_connected">Inactive</string>
+    <string name="singlehandmode_slide_hint_message">Slide your finger across the navigation bar to switch between the standard and mini screen views</string>
+    <string name="permlab_resetBatteryStats">Reset battery statistics</string>
+    <string name="permdesc_resetBatteryStats">Allows an application to reset the current low-level battery use data.</string>
+    <string name="byteShort">B</string>
+</resources>
